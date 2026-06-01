@@ -1,0 +1,10 @@
+# --- Secrets: contain the guest password. NEVER commit. ---
+claude.md
+.claude/
+
+# --- Source content in plaintext. Publishing this defeats the password gate. ---
+build.js
+template.html
+
+# --- OS noise ---
+.DS_Store
