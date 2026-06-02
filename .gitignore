@@ -6,5 +6,9 @@ claude.md
 build.js
 template.html
 
+# --- Full-resolution photo originals: too heavy to deploy. Web-optimized
+#     copies live directly in images/ and are what the site references. ---
+images/originals/
+
 # --- OS noise ---
 .DS_Store
