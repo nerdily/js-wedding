@@ -5,6 +5,7 @@ claude.md
 # --- Source content in plaintext. Publishing this defeats the password gate. ---
 build.js
 template.html
+agenda-print.html
 
 # --- Full-resolution photo originals: too heavy to deploy. Web-optimized
 #     copies live directly in images/ and are what the site references. ---
